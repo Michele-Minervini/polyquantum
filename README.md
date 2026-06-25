@@ -1,7 +1,8 @@
-# Polyquantum
-_Open, collaborative, version-controlled research in quantum science_.
+<img src="banner.png" alt="Polyquantum" width="100%">
 
-👉 List of all [Polyquantum projects](https://github.com/andreamari/polyquantum/issues).
+_Open, collaborative, version-controlled research in quantum science._
+
+[View all Polyquantum projects](https://github.com/andreamari/polyquantum/issues)
 
 ## About
 _Polyquantum_ is an open platform for collaborative research in quantum science, structured as a GitHub repository.  
